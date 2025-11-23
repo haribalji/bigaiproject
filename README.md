@@ -125,7 +125,7 @@ Follow the steps below to run the project locally:
 
 # 1. Clone the repository
  git init
-  git clone https://github.com/haribalji/bigairlab.git
+  git clone https://github.com/haribalji/bigaiproject.git
   
 # 2. Navigate to the frontend folder
 cd frontend
