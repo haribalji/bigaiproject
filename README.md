@@ -2,7 +2,7 @@
 # DEMO VIDEO :https://drive.google.com/file/d/1ymU8jb_H42CObcRXegFxJ7gOdkfDAmYK/view?usp=sharing
 
 
-RAG-Based Q&A:
+# RAG-Based Q&A:
 flow-control
 
 1.User uploads a PDF → saved as uploaded.pdf.
@@ -24,7 +24,7 @@ flow-control
 
 
 
-OCR model
+# OCR model
 The system integrates OCR technology to convert handwritten or printed notes into editable, dyslexia-friendly digital text. Students can upload or capture images of their notes, which are processed using two deep learning models:
 
 CRAFT (Character Region Awareness for Text Detection): Detects text areas and links characters into words using region and affinity scores.
@@ -45,7 +45,7 @@ Then, the extracted text is sent to Gemini, which generates detailed explanation
 
 
 
-AI Summarization & TTS:
+# AI Summarization & TTS:
 We used gemini-2.0-flash to generate simplified and concise summaries. By carefully crafting prompts, the model rephrases complex text into easier, dyslexia-friendly. This summarized content is then converted into speech using a TTS engine, available in both Tamil and English Text to Speech, helping users comprehend and retain information more effectively.
 
 
